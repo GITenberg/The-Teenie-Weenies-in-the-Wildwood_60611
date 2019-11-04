@@ -1,0 +1,25 @@
+_repo: The-Teenie-Weenies-in-the-Wildwood_60611
+_version: 0.0.1
+contributor:
+  illustrator: &id001
+    agent_name: Donahey, William
+    birthdate: 1883
+    deathdate: 1970
+    gutenberg_agent_id: '48982'
+    url: http://www.gutenberg.org/2009/agents/48982
+    wikipedia: https://en.wikipedia.org/wiki/William_Donahey
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2019-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Teenie Weenies in the Wildwood
+url: http://www.gutenberg.org/ebooks/60611
