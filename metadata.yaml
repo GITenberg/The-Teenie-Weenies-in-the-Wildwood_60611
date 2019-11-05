@@ -1,5 +1,5 @@
 _repo: The-Teenie-Weenies-in-the-Wildwood_60611
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator: &id001
     agent_name: Donahey, William
@@ -8,9 +8,14 @@ contributor:
     gutenberg_agent_id: '48982'
     url: http://www.gutenberg.org/2009/agents/48982
     wikipedia: https://en.wikipedia.org/wiki/William_Donahey
+covers:
+- cover_type: archival
+  image_path: 60611-h/images/inside-front-cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60611#The-Teenie-Weenies-in-the-Wildwood
 gutenberg_issued: '2019-11-01'
 gutenberg_type: Text
 identifiers:
